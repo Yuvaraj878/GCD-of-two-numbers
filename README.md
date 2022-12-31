@@ -20,7 +20,6 @@ Program to find the gcd of two number using function.
 Developed by: Yuvaraj.S
 RegisterNumber:  22008589
 */
-```
 def gcd():
     a=int(input())
     b=int(input())
@@ -32,7 +31,7 @@ def gcd():
         if (a%c==0 and b%c==0):
             hcf=c
     print("GCD of two numbers is:",hcf)
-```            
+```          
 
 
 
